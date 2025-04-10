@@ -20,7 +20,7 @@ sidebar:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: soroush-saki
   xing: alandoe
-  github: jekyll
+  github: soroush-saki
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -73,9 +73,10 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: BSc in Computer Science
+    university: 
+Technical and Vocational University | Rasht branch
+    time: 2020 - 2024
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -283,4 +284,4 @@ skills:
     level: 60%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  All Rights Reserved 2025 | Soroush Saki
