@@ -17,15 +17,15 @@ sidebar:
   phone: +98 936 115 5589
   timezone: Iran/Tehran UTC+3:30 # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Iranian
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  website: #https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: soroush-saki
-  xing: alandoe
+  xing: 
   github: soroush-saki
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky:  # Specify your full Bluesky handle
+  twitter: #'@jekyllrb'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -73,7 +73,7 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: BSc in Computer Science
+  - degree: BSc in Software Engineering
     university: Technical and Vocational University | Rasht branch
     time: 2020 - 2024
     details: |
@@ -140,9 +140,9 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
+  - name: Machine Learning with Python
+    start: #2020
+    end: Sep 2024
     organization: Microsoft
     credentialid: 111-222
     credentialurl: www.google.com
