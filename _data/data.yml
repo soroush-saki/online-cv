@@ -16,7 +16,7 @@ sidebar:
   email: mr.soroush.saki@gmail.com
   phone: +98 936 115 5589
   timezone: Iran/Tehran UTC+3:30 # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:Iranian
+  citizenship: Iranian
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: soroush-saki
   xing: alandoe
@@ -38,13 +38,13 @@ sidebar:
     title: Languages
     info:
     - idiom: English
-      level: Native
+      level: Proficient
 
-    - idiom: French
-      level: Professional
+    - idiom: Korean
+      level: basic
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: Persian
+      level: Fluent
 
   interests:
     title: Interests
