@@ -64,12 +64,11 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Soroush Saki (b. August 7, 2001)
+    Computer Scientist | AI & Data Science Researcher 
+
+    A passionate computer scientist with a lifelong fascination for technology, I began exploring programming and computer architecture at an early age. My academic journey led me to pursue a vocational high school diploma in Software Engineering and Networking, followed by a B.Sc. in Software Engineering at the University of Technical and Vocational Education, Guilan, where I graduated with distinction.
+    Driven by a forward-thinking mindset, I dedicated my undergraduate years to exploring specialized domains within computer science. Through iterative experimentation and self-directed learning, I discovered my aptitude for Artificial Intelligence and Data Science, which prompted me to undertake rigorous coursework (including international certifications) and foundational research projects. My growing engagement in these fields, evidenced by early-stage publications and technical projects, revealed the depth of interdisciplinary knowledge required. This realization motivated me to pursue formal training in Data Science to contextualize my practical experience within an academic framework and contribute to cutting-edge research.
 education:
   title: Education
   info:
